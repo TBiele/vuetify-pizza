@@ -1,12 +1,12 @@
 <template>
   <v-container class="fill-height">
     <v-responsive class="d-flex align-center text-center fill-height">
-      <v-img contain height="300" src="@/assets/pizza-logo.svg" />
+      <v-img contain height="200" src="@/assets/pizza-logo.svg" />
       <div class="py-2" />
       <div class="text-body-2 font-weight-light mb-n1">Welcome to</div>
       <h1 class="text-h2 font-weight-bold">Pinia's Pizza</h1>
       <div class="text-body-2 font-weight-light mb-n1">
-        Click the button to place your order
+        Click the button below to place your order
       </div>
       <div class="py-4" />
       <v-row class="d-flex align-center justify-center">
